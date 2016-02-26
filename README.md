@@ -1,5 +1,5 @@
 # JoshEllis_The-game-of-Life
-Music version of John Conway's Game of Life
+Musical version of John Conway's Game of Life
 
 Josh Ellis - Conway’s Game of Life
 
