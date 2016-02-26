@@ -7,7 +7,7 @@ Designed in Max 7.1.0 by Josh Ellis
 
 GUI optimised for screen size 1920 x 1080
 
-TO OPEN PATCH GO TO https://www.dropbox.com/s/mrgxujvezvsevdm/JoshEllis_GameofLife.maxpat?dl=0 to download Max 7 patch directly. Alternatively you can copy the code located in the file 'Max Code' however the patch will open up in edit mode rather than presentation. 
+TO OPEN PATCH GO TO https://www.dropbox.com/s/a0rh6982qnsiuv8/JoshEllis_GameofLife.zip?dl=0 to download Max 7 patch directly. Alternatively you can copy the code located in the file 'Max Code' however the patch will open up in edit mode rather than presentation. 
 
 Patch Notes: 
 
